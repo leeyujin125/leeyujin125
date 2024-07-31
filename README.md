@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
 
+📔Velog📔  
+<a href="https://velog.io/@dbwls2605/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
+
 ---
 
 ## 🛠 Languages and Tools
